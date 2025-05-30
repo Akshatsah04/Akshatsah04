@@ -10,8 +10,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Akshatsah04&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Akshatsah04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatsah04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![Leetcode Stats](https://leetcard.akshatsah/akshatsah)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatsah04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![Leetcode Stats](https://leetcard.jacoblin.cool/akshatsah?theme=dark&ext=activity)
+
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akshatsah04&theme=radical&no-frame=true&no-bg=true&margin-w=4)
